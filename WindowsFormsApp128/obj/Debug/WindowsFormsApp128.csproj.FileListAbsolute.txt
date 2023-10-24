@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\bin\Debug\WindowsFormsApp128.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\bin\Debug\WindowsFormsApp128.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\bin\Debug\WindowsFormsApp128.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp128\WindowsFormsApp128\obj\Debug\WindowsFormsApp128.pdb
